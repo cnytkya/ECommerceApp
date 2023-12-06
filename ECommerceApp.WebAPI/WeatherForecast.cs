@@ -1,4 +1,4 @@
-namespace ECommerceApp.API
+namespace ECommerceApp.WebAPI
 {
     public class WeatherForecast
     {
